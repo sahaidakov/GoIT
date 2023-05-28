@@ -30,6 +30,6 @@ public class MathUtils {
         System.out.println("math.twice(7f) = " + math.twice(7));
 
         //Should be 10
-        System.out.println("math.twicedSum(2, 3) = " + math.twicedSum(2, 3));
+        System.out.println("math.twicedSum(2, 3) = " + math.twicedSum(2, 10));
     }
 }
